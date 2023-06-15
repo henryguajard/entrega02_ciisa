@@ -1,0 +1,128 @@
+body {
+    padding-top: 90px; /**/
+  }
+
+h2{/**/
+    color: aliceblue;
+    padding-right: 0px;
+    font-size: 260%;
+    text-align: center; 
+  }
+
+h3{
+    font-size: 220%;
+    color: aliceblue;   
+}  
+
+h5{
+ font-size: 140%;
+ color: aliceblue;
+  }
+
+.p_Envios{
+color: aliceblue;
+font-size: 160%;
+text-align: center;
+}  
+
+.color_nav{
+background-color: #2edc85 !important;
+}
+
+.offcanvas{
+    background-color: #2edc85 !important;
+}
+footer{
+
+    background-color: #022313 !important; 
+    list-style: none; 
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.icono_Footer{
+
+    margin-left: 640px;
+}
+.redes_Sociales{
+   
+    list-style: none; 
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.redes_Sociales2{
+    list-style: none; 
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5px;
+
+}
+
+.redes_Sociales,li,svg{
+
+    color: aliceblue;
+}
+
+.redes_Sociales,li,svg :hover{
+
+    color: #41a372;
+}
+
+.mensaje_Descrip{
+    display:inline-flex;
+    justify-content: center;
+
+}
+
+.artic_01{/**/
+    background-color: #00A35C;
+    padding: 10px 0px 5px 10px;
+    height: 250px;
+  }
+.text_v{
+    
+    color: #00A35C;
+    font-size: 150%;
+
+}
+
+.contenedor_Secciones{
+   margin-top: 60px;
+    height: 480px;
+}
+.cuerpo_formulario{
+    box-shadow: 1px 1px 6px 6px rgba(16, 11, 11, 0.82);
+    border-radius: 3px;
+    padding: 10px 10px 10px 10px;
+    margin: 3px 3px 3px 3px;
+    background: linear-gradient(90deg, #022313 0%, #2edc85 100%);
+}
+.margin_formulario{
+    margin-top: 30px !important;
+}
+.p_formulario{
+    color: aliceblue;
+    font-size: 140%;
+
+}
+.politic_termin{
+    color: aliceblue;
+    font-size: 120%;
+text-decoration: underline;
+}
+
+.btn-success{
+    --bs-btn-active-bg:  #022313 !important;
+    --bs-btn-active-border-color: #2edc85 !important;
+  }
+
+
+
+
+
